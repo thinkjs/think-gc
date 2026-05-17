@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-gc.
+
 # think-gc
 [![Build Status](https://travis-ci.org/thinkjs/think-gc.svg?branch=master)](https://travis-ci.org/thinkjs/think-gc)
 [![Coverage Status](https://coveralls.io/repos/github/thinkjs/think-gc/badge.svg?branch=master)](https://coveralls.io/github/thinkjs/think-gc?branch=master)
